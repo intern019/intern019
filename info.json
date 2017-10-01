@@ -1,15 +1,13 @@
 {
-	"title": "Binder",
-	"logo" : "logo.png",
-	"about" : "Link some sites together.",
+	"title": "intern019",
+	"logo" : "intern019.png",
+	"About" : "a mixed reality studio.",
 	"menu" : {
-		"About" : "https://docs.google.com/document/d/1L8uIUdE58AsP-jnHD_H6df3T2DNFsegImPidkTwpYLw/",
-		"Download" : "https://docs.google.com/document/d/1aKVEphpLq3UUBkhoStJVhmkiOWRQmALAj-bphbk-KTU/",
-		"Binder In-Use" : "https://docs.google.com/document/d/1q9957u3P0SfFzwTzaWlu1ZeJ4FEZ0H4MF-cJBSm4Y-s/",
-		"Google Slides" : "https://docs.google.com/presentation/d/1gdX17MpgdyhiAQKTPehMWEYf914cYF4GtuY7m1jD7Qo/embed?start=true&loop=true&delayms=5000",
-		"Tumblr" : "http://cempontraoryartdaily.tumblr.com/",
-		"PDF" : "http://www.nasa.gov/pdf/373665main_NASA-SP-2009-566.pdf",
-		"Youtube" : "https://www.youtube.com/embed/Sdi2S1PHS_s",
-		"Wikipedia" : "https://en.wikipedia.org/wiki/Web_page"
+		"home": "https://docs.google.com/document/d/1-SmBGMUFDrTZCNWZZeGvvMJTPL9-t4PFJ_g6buCeKhY/edit?usp=sharing",
+		"about" : "https://docs.google.com/document/d/1YqpcE2htchC4gRCrlCqW3MW5yQJDxeRg6vS3UQ-X10c/edit?usp=sharing",
+		"projects" : "https://docs.google.com/document/d/1JgVWF_QLH6Ma-zZF9hIH0yuRld_pFN2htM00Cz_Vp-I/edit?usp=sharing",
+		"postcards" : "https://docs.google.com/document/d/15NYhZgAPHSwwwCAyAA2i-NhvY_Q_UNcngPa6Hlzi7o8/edit?usp=sharing",
+		"contact" : "https://docs.google.com/document/d/18Gq8-3Wv0BqBLYmFcMEDCFONpvXLvMsozsH6APkmDi0/edit?usp=sharing",
+		"misc." : "https://docs.google.com/document/d/1FP_4OTzCWBmJM4IpYDKUChBW9mcnQenNAcCtWGgeLvU/edit?usp=sharing"
 	}
 }

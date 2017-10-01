@@ -42,12 +42,9 @@ body {
 	z-index:10;
 	padding: 13px;
 	padding-right: 15px;
-	font: 15px/20px monospace;
+	font: 20px monospace;
     letter-spacing: -0.3px;
 	cursor: move;
-	    box-shadow: #fefb00 3px 3px 0, 6px 6px 0px #ff0000;
-	border-style: solid;
-	border-color: blue;
 	background-color: #eee;
 }
 
@@ -56,7 +53,8 @@ body {
 	position: fixed;
 	right: 70px;
 	top: 60px;
-	width: 300px;
+	width: 225px;
+	height:293px;
 }
     #logo-touch {
         display: none;
@@ -90,23 +88,25 @@ body {
 	width:auto;
 }
 
-#navigation a, div.about{
+#navigation a, div.About{
 	color: #717171;
 	padding: 0;
 	text-decoration: none;
 	padding: 1px;
 }
 #navigation a.active{
-	color: #000;
+	color: #000000;
+	background-color: yellow;
 }
 #navigation a:hover{
 	color: #000;
+	background-color: yellow;
 }
 #navigation .current_page_item a {
-	color: red;
+	color: yellow;
 }
 
-.about{
+.About{
 	position: fixed;
 	font-family: courier;
     letter-spacing: 0.5px;
@@ -116,8 +116,8 @@ body {
     color: rgba(0, 0.8);
 	z-index: 90;
 	max-width: 277px;
-	right: 145px;
-	top: 155px;
+	right: 300px;
+	top: 405px;
 }
 
 /* Psuedo mobile styles for wide touch devices */
@@ -157,7 +157,7 @@ body {
 	    margin-bottom: 15%;
 	    width: 90%;
 	}
-	.touch-device .about{
+	.touch-device .About{
 		width: auto;
 		display: none;
 	}
@@ -211,7 +211,7 @@ body {
 	    margin-bottom: 15%;
 	    width: 90%;
 	}
-	.about{
+	.About{
 		width: auto;
 		display: none;
 	}
